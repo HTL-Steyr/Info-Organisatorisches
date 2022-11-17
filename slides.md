@@ -6,10 +6,25 @@
 
 ---
 
-## Quotes
+## Elektronik und Technische Informatik
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
+Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für:
+
+> Steuerungs- und Automatisierungstechnik,
+> Telekommunikation und Mobilfunktechnik,
+> Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik
+> Medizin- und Umwelttechnik und vieles andere mehr.
+
+Die Abteilung für Elektronik und Technische Informatik bildet in modernst ausgestatteten Werkstätten, Labor- und Konstruktionsräumen anerkannt gute und gefragte Hard- und Softwarespezialisten aus.
+
+Elektroniker und Technische Informatiker
+> designen Hardware
+> entwickeln Software
+> managen Netzwerke
+
+Ab dem 4.Jahrgang werden folgende Wahlmodule angeboten:
+> Multimedia-Systeme & Web IT
+> Energiemanagement & Green IT
 
 ---
 
