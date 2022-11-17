@@ -2,7 +2,7 @@
 
 --
 
-## Vorstellung der Schule
+## Organisatorisches
 
 ---
 
