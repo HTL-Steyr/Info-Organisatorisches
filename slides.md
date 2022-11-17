@@ -8,16 +8,16 @@
 
 ## Elektronik und Technische Informatik
 
-Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für:
+Die Zukunftstechnologien **Elektronik** und **Technische Informatik** sind Basis für:
 
 > Steuerungs- und Automatisierungstechnik,
 > Telekommunikation und Mobilfunktechnik,
 > Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik
 > Medizin- und Umwelttechnik und vieles andere mehr.
 
-Die Abteilung für Elektronik und Technische Informatik bildet in modernst ausgestatteten Werkstätten, Labor- und Konstruktionsräumen anerkannt gute und gefragte Hard- und Softwarespezialisten aus.
+Die Abteilung für **Elektronik und Technische Informatik** bildet in modernst ausgestatteten Werkstätten, Labor- und Konstruktionsräumen anerkannt gute und gefragte **Hard- und Softwarespezialisten** aus.
 
-Elektroniker und Technische Informatiker
+**Elektroniker und Technische Informatiker**
 > designen Hardware
 > entwickeln Software
 > managen Netzwerke
@@ -28,7 +28,7 @@ Ab dem 4.Jahrgang werden folgende Wahlmodule angeboten:
 
 ---
 
-## Styles
+## Informationstechnologie Ausbildungsschwerpunkt Netzwerktechnik
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
@@ -36,6 +36,20 @@ You can freely mix **bold**, *italics*, `code` and normal styles
 * **bold**
 * *italics*
 * `code`
+
+Die Ausbildung in **Fachtheorie** und **Fachpraxis** steht auf den Säulen:
+> Netzwerksicherheit und Netzwerkmanagement
+> Softwareentwicklung
+> Projekt- und Qualitätsmanagement
+> Datenbanksysteme
+> Informationsmanagement
+
+**Informationstechnologen und Netzwerktechniker**
+> planen und betreiben Netzwerke
+> entwickeln und installieren Software
+> konfigurieren und warten Betriebssysteme
+> nutzen und betreuen Datenbanken
+> lokalisieren und beheben Netzwerkfehler
 
 --
 
