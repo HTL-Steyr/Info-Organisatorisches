@@ -1,8 +1,8 @@
-# Organisation
+# HTL Steyr
 
 --
 
-## Typography
+## Vorstellung der Schule
 
 ---
 
