@@ -17,27 +17,14 @@ Vom Jahrgangsvorstand werden innerhalb der ersten Schulwoche die Anmeldedaten f�
 Die HTL Steyr hat ein eigenes System für die Kommunikation per Mail. Für die Anmeldung sind die Daten, welche man in der ersten Schulwoche bekommt erforderlich. Zum Empfangen von E-Mails auf die HTL Steyr Adresse, muss folgende Adresse verwendet werden: **benutzername@htl-steyr.ac.at**.
 Mit dem Webmail der HTL Steyr kann intern mit anderen Schülern und Lehrern kommuniziert werden, ebenso kann aber auch extern kommuniziert werden, wenn die E-Mail Adresse des Empfängers bekannt ist.
 
+---
 
-You can freely mix **bold**, *italics*, `code` and normal styles
+## Webseite der HTL Steyr
 
-* normal
-* **bold**
-* *italics*
-* `code`
+Die Webseite der HTL Steyr ist über den Link: **www.htl-steyr.ac.at** abrufbar.
+In der Navigationsleiste kann man verschiedene Bereiche, wie zum Beispiel **Schule** auswählen, wo man Allgemeines zur Schule findet. Ebenso gibt es aber auch die Fachrichtungen in der Navigationsleiste, wo man genauere Informationen zur genaueren Fachrichtung findet.
 
-Die Ausbildung in **Fachtheorie** und **Fachpraxis** steht auf den Säulen:
-> Netzwerksicherheit und Netzwerkmanagement
-> Softwareentwicklung
-> Projekt- und Qualitätsmanagement
-> Datenbanksysteme
-> Informationsmanagement
-
-**Informationstechnologen und Netzwerktechniker**
-> planen und betreiben Netzwerke
-> entwickeln und installieren Software
-> konfigurieren und warten Betriebssysteme
-> nutzen und betreuen Datenbanken
-> lokalisieren und beheben Netzwerkfehler
+Auf der Startseite hat man seitlich im Menü verschiedenste Informationen, welche man sich ansehen kann, wie zum Beispiel Voraussetzungen für die HTL Steyr, Kontaktdaten zu den einzelnen Lehrkräften, des Sekretariats und der Schulleitung.
 
 --
 
