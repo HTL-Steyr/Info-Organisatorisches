@@ -12,7 +12,11 @@ Vom Jahrgangsvorstand werden innerhalb der ersten Schulwoche die Anmeldedaten f�
 
 ---
 
-## Informationstechnologie Ausbildungsschwerpunkt Netzwerktechnik
+## Webmail
+
+Die HTL Steyr hat ein eigenes System für die Kommunikation per Mail. Für die Anmeldung sind die Daten, welche man in der ersten Schulwoche bekommt erforderlich. Zum Empfangen von E-Mails auf die HTL Steyr Adresse, muss folgende Adresse verwendet werden: **benutzername@htl-steyr.ac.at**.
+Mit dem Webmail der HTL Steyr kann intern mit anderen Schülern und Lehrern kommuniziert werden, ebenso kann aber auch extern kommuniziert werden, wenn die E-Mail Adresse des Empfängers bekannt ist.
+
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
