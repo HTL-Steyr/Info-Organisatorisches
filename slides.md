@@ -1,5 +1,6 @@
 # HTL Steyr
-<img src="/img/htl-steyr-logo.gif"  height="250" width="250">
+<img src="/img/htl-steyr-logo.gif"  height="90" width="90">
+
 --
 
 ## Webuntis
