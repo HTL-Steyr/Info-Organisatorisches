@@ -72,9 +72,10 @@ Die Webseite ist über den Link: **www.htl-steyr.ac.at** abrufbar.
 * Die zweite / dritte Zahl ist die Raumnummer
 ---
 ## WCs
-* Befinden sich im Stiegenhaus des A Traktes 
-* Bei den Werkstätten im Gang
-* Im C Trakt am Weg zu den Klassen
+* Befinden sich im Stiegenhaus des C Traktes
+* Bei den Werkstätten, neben dem Kopierer
+* Im A Trakt am Weg zu den Klassenräumen 
+* Im B Trakt hinter der Türe zum Stiegenhaus
 ---
 ## Drucker
 * Bei den Werkstätten
