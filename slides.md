@@ -8,7 +8,7 @@
 - Stundenpläne, Fehlzeiten, Hausaufgaben, Prüfungstermine und wichtige Informationen der Schulleitung <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
-<img src="/img/webuntis-search-school.png"  height="250" width="250">
+<img src="/img/webuntis-search-school.png"  height="350" width="450">
 ---
 
 
