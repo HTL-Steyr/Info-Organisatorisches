@@ -18,7 +18,6 @@
 **Schritt 3:** Das Hauptfenster des digitalen Klassenbuches
 <img src="img/webuntis_screen.png"  height="454" width="544" class="center"> <!-- .element: class="fragment" data-fragment-index="1" -->
 - Übersicht: Zeigt offene Abwesenheiten und Befreiungen, sowie anstehende Prüfungen / Hausübungen an <!-- .element: class="fragment" data-fragment-index="2" -->
-- Mein Stundenplan: Gibt Auskunft über den Stundenplan der gesamten Klasse <!-- .element: class="fragment" data-fragment-index="3" -->
 - Sprechstunden: Zeigt eine Liste von Kontaktdaten der Lehrkräfte an <!-- .element: class="fragment" data-fragment-index="4" -->
 
 --
@@ -46,7 +45,7 @@ Ermöglicht den Zugriff auf das Schulnetzwerk *von Zuhause*
 
 ---
 Die Webseite ist über den Link: **www.htl-steyr.ac.at** abrufbar.
-<img src="img/school_website.png"  height="844" width="1044" class="center">
+<img src="img/school_website.png"  height="644" width="844" class="center">
 
 --
 ## Ablauf der ersten Schulwoche
