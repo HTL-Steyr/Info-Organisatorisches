@@ -1,5 +1,5 @@
 # HTL Steyr
-<span>(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.htl-steyr.ac.at%2Findex.php%2Fschule%2Fkontakt&psig=AOvVaw1dzYSeJXklboEXDU88aZA6&ust=1671121006673000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKih-oLB-fsCFQAAAAAdAAAAABAE):</span><!-- .element: class="decent x-small"-->
+<span>(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.htl-steyr.ac.at%2Findex.php%2Fschule%2Fkontakt&psig=AOvVaw1dzYSeJXklboEXDU88aZA6&ust=1671121006673000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKih-oLB-fsCFQAAAAAdAAAAABAE)</span><!-- .element: class="decent x-small"-->
 --
 
 ## Webuntis
