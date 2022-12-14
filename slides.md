@@ -4,13 +4,8 @@
 
 ## Webuntis
 * Innerhalb der ersten Schulwoche werden die Anmeldedaten für das elektronische Klassenbuch übergeben
-* Anschließend kann man sich mit Benutzername & Passwort bei **www.webuntis.com einloggen**
----
-
-## Einstieg in WebUntis
-
-Vom Jahrgangsvorstand werden innerhalb der ersten Schulwoche die Anmeldedaten für das elektronische Klassenbuch übergeben. Anschließend kann man sich mit den Daten anmelden und Einsicht in seinen Stundenplan, andere Stundenpläne (z.B.: von anderen Klassen, Lehrkräften und Räumen). Ebenso sieht man da seine Fehlzeiten, Hausaufgaben und Prüfungstermine.
-
+* Mit Benutzername & Passwort bei **www.webuntis.com** einloggen
+  * Einsicht in Stundenplan, Fehlzeiten, Hausaufgaben, Prüfungstermine und wichtige Informationen der Schulleitung
 ---
 
 ## Webmail
