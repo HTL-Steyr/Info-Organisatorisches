@@ -3,12 +3,12 @@
 --
 
 ## Webuntis
-- Innerhalb der ersten Schulwoche werden die Anmeldedaten für das elektronische Klassenbuch übergeben <!-- .element: class="fragment" data-fragment-index="2" -->
-- Benutzername & Passwort bei **www.webuntis.com** einloggen <!-- .element: class="fragment" data-fragment-index="1" -->
+- Innerhalb der ersten Schulwoche werden die Anmeldedaten für das elektronische Klassenbuch übergeben <!-- .element: class="fragment" data-fragment-index="1" -->
+- Benutzername & Passwort bei **www.webuntis.com** einloggen <!-- .element: class="fragment" data-fragment-index="2" -->
 - Stundenpläne, Fehlzeiten, Hausaufgaben, Prüfungstermine und wichtige Informationen der Schulleitung <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
-- <img src="/img/webuntis-search-school.png"  height="350" width="450">  <!-- .element: class="fragment" data-fragment-index="2" -->
+- <img src="/img/webuntis-search-school.png"  height="350" width="450">  <!-- .element: class="fragment" data-fragment-index="1" -->
 ---
 
 
