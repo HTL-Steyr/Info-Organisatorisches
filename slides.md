@@ -2,8 +2,9 @@
 
 --
 
-## Organisatorisches
-
+## Webuntis
+* Innerhalb der ersten Schulwoche werden die Anmeldedaten für das elektronische Klassenbuch übergeben
+* Anschließend kann man sich mit Benutzername & Passwort bei **www.webuntis.com einloggen**
 ---
 
 ## Einstieg in WebUntis
