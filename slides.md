@@ -64,9 +64,9 @@ Die Webseite ist über den Link: **www.htl-steyr.ac.at** abrufbar.
 ## Aufbau des Hauses (z.B C103)
 ---
 * Trakt
-    * A: Der Haupttrakt
+    * A: Sicht des Haupteinganges der rechte Trakt
     * B: Sicht des Haupteinganges der linke Trakt
-    * C: Sicht des Haupteinganges der rechte Trakt
+    * C: Der Haupttrakt
 
 * Die erste Zahl gibt das Stockwerk des Raumes an
 * Die zweite / dritte Zahl ist die Raumnummer
