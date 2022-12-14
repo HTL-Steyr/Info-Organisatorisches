@@ -16,7 +16,7 @@
 <img src="img/webuntis-login.png"  height="524" width="574" class="center">
 ---
 **Schritt 3:** Das Hauptfenster des digitalen Klassenbuches
-<img src="img/webuntis_screen.png"  height="404" width="544" class="center"> <!-- .element: class="fragment" data-fragment-index="1" -->
+<img src="img/webuntis_screen.png"  height="414" width="544" class="center"> <!-- .element: class="fragment" data-fragment-index="1" -->
 - Übersicht: Zeigt offene Abwesenheiten und Befreiungen, sowie anstehende Prüfungen / Hausübungen an <!-- .element: class="fragment" data-fragment-index="2" -->
 - Mein Stundenplan: Gibt Auskunft über den Stundenplan der gesamten Klasse <!-- .element: class="fragment" data-fragment-index="3" -->
 - Sprechstunden: Zeigt eine Liste von Kontaktdaten der Lehrkräfte an <!-- .element: class="fragment" data-fragment-index="4" -->
