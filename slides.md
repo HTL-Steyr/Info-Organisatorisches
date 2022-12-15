@@ -53,7 +53,7 @@ Die Webseite ist über den Link: **www.htl-steyr.ac.at** abrufbar.
 * Der Jahrgangsvorstand übergibt sämtliche Logindaten
     * Passwörter müssen gesetzt werden <!-- .element: class="fragment" data-fragment-index="1" -->
 * Einführung in die Werkstätten <!-- .element: class="fragment" data-fragment-index="2" -->
-* Informationen über den Sport Unterricht <!-- .element: class="fragment" data-fragment-index="3" -->
+* Informationen über den Sportunterricht <!-- .element: class="fragment" data-fragment-index="3" -->
 * Eine kurze Rede der Schulleitung <!-- .element: class="fragment" data-fragment-index="4" -->
 --
 ## Standort der Turnhalle
