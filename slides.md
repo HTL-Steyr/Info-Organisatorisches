@@ -7,7 +7,7 @@
 ## Digitales Klassenbuch
 - www.webuntis.com <!-- .element: class="fragment" data-fragment-index="1" -->
 - Innerhalb der ersten Schulwoche werden die Anmeldedaten für das elektronische Klassenbuch übergeben <!-- .element: class="fragment" data-fragment-index="2" -->
-- Stundenpläne, Fehlzeiten, Hausaufgaben, Prüfungstermine und wichtige Informationen der Schulleitung einsehbar <!-- .element: class="fragment" data-fragment-index="3" -->
+- Stundenpläne, Fehlzeiten, Hausaufgaben, Prüfungstermine und wichtige Informationen der Schulleitung sind einsehbar <!-- .element: class="fragment" data-fragment-index="3" -->
 ---
 **Schritt 1:** Suchen der Schule im Suchfenster (HTBLA Steyr) 
 <img src="img/webuntis-search-school.png"  height="582" width="598" class="center"> 
