@@ -61,7 +61,7 @@ Die Webseite ist über den Link: **www.htl-steyr.ac.at** abrufbar.
 <img src="img/turnhalle.png"  height="670" width="1668" class="center">
 
 --
-## Aufbau des Hauses (z.B C103)
+## Aufbau des Hauses (z.B A103)
 ---
 * Trakt
     * A: Sicht des Haupteinganges der rechte Trakt
