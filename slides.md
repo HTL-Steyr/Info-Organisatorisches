@@ -12,7 +12,7 @@
 **Schritt 1:** Suchen der Schule im Suchfenster (HTBLA Steyr) 
 <img src="img/webuntis-search-school.png"  height="582" width="598" class="center"> 
 ---
-**Schritt 2:** Benutze die erhaltenen Login Daten
+**Schritt 2:** Benutze die erhaltenen Login-Daten
 <img src="img/webuntis-login.png"  height="524" width="574" class="center">
 ---
 **Schritt 3:** Das Hauptfenster des digitalen Klassenbuches
