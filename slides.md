@@ -19,6 +19,11 @@
 <img src="img/webuntis_screen.png"  height="304" width="424" class="center"> <!-- .element: class="fragment" data-fragment-index="1" -->
 - Übersicht: Zeigt offene Abwesenheiten und Befreiungen, sowie anstehende Prüfungen / Hausübungen an <!-- .element: class="fragment" data-fragment-index="2" -->
 - Sprechstunden: Zeigt eine Liste von Kontaktdaten der Lehrkräfte an <!-- .element: class="fragment" data-fragment-index="3" -->
+---
+## Farben
+Ereignisse werden durch Farben im Stundenplan markiert
+<img src="img/farblegende.png"  height="124" width="2074" class="center">
+
 
 --
 ## Webmail
@@ -72,6 +77,7 @@ Die Webseite ist über den Link: **www.htl-steyr.ac.at** abrufbar.
 
 * Die erste Zahl gibt das Stockwerk des Raumes an
 * Die zweite / dritte Zahl ist die Raumnummer
+* z.B A101, Raum 01 im ersten Stock des A Traktes
 
 --
 ## Elternsprechtage
@@ -101,3 +107,14 @@ Kontakt zum Sekretariat: 07252 72914
 ---
 * Zugriff auf Dokumente wie z.B Schulbesuchsbestätigung
 * Unter dem Reiter **Formulare** können diese heruntergeladen werden
+
+--
+## Wiki
+---
+* Erreichbar unter:
+  * https://www.htl-steyr.ac.at/index.php/intern-sidebar
+---    
+<img src="img/wiki.png"  height="470" width="1068" class="center">
+---
+* Schulinterne Informationen
+* Lernmaterial der Professoren
