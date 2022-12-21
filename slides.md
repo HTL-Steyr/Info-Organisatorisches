@@ -7,7 +7,7 @@
 ## Digitales Klassenbuch
 - www.webuntis.com <!-- .element: class="fragment" data-fragment-index="1" -->
 - Innerhalb der ersten Schulwoche werden die Anmeldedaten für das elektronische Klassenbuch übergeben <!-- .element: class="fragment" data-fragment-index="2" -->
-- Stundenpläne, Fehlzeiten, Hausaufgaben, Prüfungstermine und wichtige Informationen der Schulleitung sind einsehbar <!-- .element: class="fragment" data-fragment-index="3" -->
+- Darin einsehbar: Stundenpläne, Fehlzeiten, Hausaufgaben, Prüfungstermine und wichtige Informationen der Schulleitung sind einsehbar <!-- .element: class="fragment" data-fragment-index="3" -->
 ---
 **Schritt 1:** Suchen der Schule im Suchfenster (HTBLA Steyr) 
 <img src="img/webuntis-search-school.png"  height="582" width="598" class="center"> 
@@ -28,17 +28,19 @@
     - Aufbau der Adresse: benutzername@htl-steyr.ac.at
 ---
 ## Neue Nachricht senden
-**Neue Nachricht** ermöglicht das versenden von Nachrichten
+**Neue Nachricht** ermöglicht das Versenden von Nachrichten
 
-<img src="img/send_message_webmail.png"  height="348" width="1050" class="center">
+<img src="img/webmail.png"  height="348" width="1050" class="center">
 ---
 
 
 
-## Datei Manager
-Ermöglicht den Zugriff auf das Schulnetzwerk *von Zuhause*
-<img src="img/datamanager.png"  height="254" width="244" class="center">
-
+## WinSCP
+* Link: https://winscp.net/eng/download.php
+* Ermöglicht den Zugriff auf das Schulnetzwerk von Zuhause aus <!-- .element: class="fragment" data-fragment-index="2" -->
+<img src="img/winscp_connect.png"  height="354" width="644" class="center">
+---
+<img src="img/winscp_hochladen.png"  height="354" width="1044" class="center">
 --
 
 ## Webseite der HTL Steyr
@@ -50,36 +52,26 @@ Die Webseite ist über den Link: **www.htl-steyr.ac.at** abrufbar.
 --
 ## Ablauf der ersten Schulwoche
 ---
-* Der Jahrgangsvorstand übergibt sämtliche Logindaten
-    * Passwörter müssen gesetzt werden <!-- .element: class="fragment" data-fragment-index="1" -->
-* Einführung in die Werkstätten <!-- .element: class="fragment" data-fragment-index="2" -->
+* Der Jahrgangsvorstand übergibt die entsprechenden Logindaten
+    * Passwörter müssen neu vergeben werden <!-- .element: class="fragment" data-fragment-index="1" -->
+* Einführung in den Werkstätten Unterricht <!-- .element: class="fragment" data-fragment-index="2" -->
 * Informationen über den Sportunterricht <!-- .element: class="fragment" data-fragment-index="3" -->
-* Eine kurze Rede der Schulleitung <!-- .element: class="fragment" data-fragment-index="4" -->
+* Vorstellung der Schulleitung <!-- .element: class="fragment" data-fragment-index="4" -->
 --
 ## Standort der Turnhalle
 ---
 <img src="img/turnhalle.png"  height="670" width="1668" class="center">
 
 --
-## Aufbau des Hauses (z.B A103)
+## Aufbau des Schulgebäudes (z.B A103)
 ---
 * Trakt
-    * A: Sicht des Haupteinganges der rechte Trakt
-    * B: Sicht des Haupteinganges der linke Trakt
-    * C: Der Haupttrakt
+    * A: Elektronik / IT
+    * B: Mechatronik
+    * C: Werkstätten
 
 * Die erste Zahl gibt das Stockwerk des Raumes an
 * Die zweite / dritte Zahl ist die Raumnummer
----
-## WCs
-* Befinden sich im Stiegenhaus des C Traktes
-* Bei den Werkstätten, neben dem Kopierer
-* Im A Trakt am Weg zu den Klassenräumen 
-* Im B Trakt hinter der Türe zum Stiegenhaus
----
-## Drucker
-* Bei den Werkstätten
-* Im C Trakt bei den Servern, Stockwerk 1 / Stockwerk 3
 
 --
 ## Elternsprechtage
@@ -95,17 +87,17 @@ Die Reservierung von Gesprächsterminen erfolgt über www.webuntis.com
 ---
 ## Informieren
 Bei Krankmeldungen ist es notwendig, dass die Erziehungsberechtigten das Sekretariat
-über das Fernbleiben des Unterrichts informieren
+über das Fernbleiben vom Unterricht informieren
 ---
 Kontakt zum Sekretariat: 07252 72914
 
 --
-## Internes Schulnetzwerk
+## Interner Websitebereich
 ---
 * Erreichbar unter: 
     * https://www.htl-steyr.ac.at/index.php/intern-sidebar
 ---    
 <img src="img/intern.png"  height="470" width="1068" class="center">
 ---
-* Gibt Zugriff auf das interne Netzwerk mit Material der Lehrpersonen
-* Unter dem Reiter **Formulare** können wichtige Dateien heruntergeladen werden
+* Zugriff auf Dokumente wie z.B Schulbesuchsbestätigung
+* Unter dem Reiter **Formulare** können diese heruntergeladen werden
