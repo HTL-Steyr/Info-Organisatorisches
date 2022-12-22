@@ -103,7 +103,7 @@ Kontakt zum Sekretariat: 07252 72914
 * Erreichbar unter: 
     * https://www.htl-steyr.ac.at/index.php/intern-sidebar
 ---    
-<img src="img/intern.png"  height="470" width="1068" class="center">
+<img src="img/intern.png"  height="470" width="1168" class="center">
 ---
 * Zugriff auf Dokumente wie z.B Schulbesuchsbestätigung
 * Unter dem Reiter **Formulare** können diese heruntergeladen werden
