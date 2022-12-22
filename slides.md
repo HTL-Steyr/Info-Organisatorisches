@@ -22,7 +22,7 @@
 ---
 ## Farben
 Ereignisse werden durch Farben im Stundenplan markiert
-<img src="img/farblegende.png"  height="124" width="2074" class="center">
+<img src="img/farblegende.png"  height="104" width="2474" class="center">
 
 
 --
