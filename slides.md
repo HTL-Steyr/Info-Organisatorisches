@@ -40,8 +40,8 @@ Ereignisse werden durch Farben im Stundenplan markiert
 
 
 
-## WinSCP
-* Link: https://winscp.net/eng/download.php
+## File Upload
+* FTP Programm: https://winscp.net/eng/download.php
 * Ermöglicht den Zugriff auf das Schulnetzwerk von Zuhause aus <!-- .element: class="fragment" data-fragment-index="2" -->
 <img src="img/winscp_connect.png"  height="354" width="644" class="center">
 ---
@@ -110,11 +110,10 @@ Kontakt zum Sekretariat: 07252 72914
 
 --
 ## Wiki
+* Schulinterne Informationen 
+* Lernmaterial der Professoren
 ---
 * Erreichbar unter:
-  * https://www.htl-steyr.ac.at/index.php/intern-sidebar
+  * http://www.htl-steyr.ac.at/intern/wiki/doku.php?id=start
 ---    
 <img src="img/wiki.png"  height="470" width="1068" class="center">
----
-* Schulinterne Informationen
-* Lernmaterial der Professoren
