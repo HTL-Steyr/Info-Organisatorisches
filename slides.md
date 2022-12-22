@@ -1,4 +1,4 @@
-## <img src="img/htl-steyr-logo.gif"  height="424" width="474" >
+## <img src="img/farb_jpg.jpg"  height="404" width="454" >
 > Organisatorisches
 --
 
