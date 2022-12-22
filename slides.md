@@ -72,8 +72,8 @@ Die Webseite ist über den Link: **www.htl-steyr.ac.at** abrufbar.
 ---
 * Trakt
     * A: Elektronik / IT
-    * B: Mechatronik
-    * C: Werkstätten
+    * B: Werkstätten
+    * C: Haupttrakt / Eingang
 
 * Die erste Zahl gibt das Stockwerk des Raumes an
 * Die zweite / dritte Zahl ist die Raumnummer
